@@ -5,6 +5,6 @@ Disadvantage of Linked List over Arrays in terms of memory :
 
 Even though it is advantageous to use Linked Lists for space conservation in heap,
  we notice that since each node stores 2 values: data and address, therefore each node 
- requires 4bytes+ 4 bytes=8 bytes of memory. The memory used in arrays for each
-  element was only 4 bytes. Here, the space of linked lists is noticed to be more.
+requires 4bytes+ 4 bytes=8 bytes of memory. The memory used in arrays for each
+element was only 4 bytes. Here, the space of linked lists is noticed to be more.
 
