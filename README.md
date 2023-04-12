@@ -12,8 +12,8 @@ Day 1:<br>
    5. Fold of LL
 
 Day 2:<br>
-    1. Unfold of LL
-    2. Merge of two sorted LL Inplace
-    3. Merge sort Inplace
-    4. Merge k sorted LL Inplace 
-    5. Remove Nth node from last 
+   1. Unfold of LL
+   2. Merge of two sorted LL Inplace
+   3. Merge sort Inplace
+   4. Merge k sorted LL Inplace 
+   5. Remove Nth node from last 
