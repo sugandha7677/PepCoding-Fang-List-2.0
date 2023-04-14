@@ -17,3 +17,13 @@ Day 2:<br>
    3. Merge sort Inplace
    4. Merge k sorted LL Inplace 
    5. Remove Nth node from last 
+
+Day 3:<br>
+   1. Segregate Even And Odd Nodes in LL
+   2. Reverse Nodes of LL in K groups
+   3. Reverse in Range
+   4. Copy random pointers
+   5. Add two LL
+   6. Subtract two LL
+   7. Multiply two LL
+   8. IsCycle present in LL
