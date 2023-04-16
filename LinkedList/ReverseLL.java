@@ -58,3 +58,21 @@ class Solution {
 
 // tc: o(n)
 //sc: o(n)
+
+//3. using addFirst()
+public LisNode reverse(ListNode head){
+    if(head == null || head.next == null) return head;
+
+    ListNode temp = head;
+    LisNode rev = null;
+
+    while(temp != null) {
+        LisNode node = temp;
+        node.next = rev;
+        rev = node;
+        temp = temp.next;
+    }
+
+    return 
+
+}

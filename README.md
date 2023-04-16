@@ -27,3 +27,16 @@ Day 3:<br>
    6. Subtract two LL
    7. Multiply two LL
    8. IsCycle present in LL
+
+Day 4:<br>
+   1. Remove Duplicates - I
+   2. Remove Duplicates - II
+   3. Partition List
+   4. Convert Sorted List to BST
+
+Day 5: <br>
+   1. Swap Nodes of LL
+   2. Split LL in parts
+   3. Design Phone directory
+   4. LL that is sorted alternatingly
+   
