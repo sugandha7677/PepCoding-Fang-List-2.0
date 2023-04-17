@@ -9,9 +9,7 @@ public class RemoveDuplicates2 {
         
         while(head != null){
             if(head.next != null && head.val == head.next.val){
-                while(head.next != null && head.val == head.next.val) head = head.next;
-                
-                
+                while(head.next != null && head.val == head.next.val) head = head.next;  
             }
             else{
                 prev.next = head;

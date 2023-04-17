@@ -40,3 +40,9 @@ Day 5: <br>
    3. Design Phone directory
    4. LL that is sorted alternatingly
    
+Day 6: <br>
+   1. Merge lists alternatingly
+   2. Split singly LL alternatingly
+   3. Split CLL into two halves
+   4. Delete middle of LL
+   5. Delete nodes having greater value on right
