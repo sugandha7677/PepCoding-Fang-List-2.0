@@ -46,3 +46,11 @@ Day 6: <br>
    3. Split CLL into two halves
    4. Delete middle of LL
    5. Delete nodes having greater value on right
+
+Day 7: <br>
+   1. Delete and Reverse LL
+   2. Delete N nodes after M nodes of LL
+   3. Delete without head pointer
+   4. Delete node in DLL
+   5. Insert node in DLL
+
