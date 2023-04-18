@@ -54,3 +54,10 @@ Day 7: <br>
    4. Delete node in DLL
    5. Insert node in DLL
 
+Day 8: <br>
+   1. Merge Sort on DLL
+   2. Insert in Middle of LL
+   3. Sorted insert for CLL
+   4. Insert into Cyclic sorted List
+   5. Remove duplicate elements from sorted LL
+
