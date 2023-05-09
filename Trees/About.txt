@@ -1,0 +1,10 @@
+Trees are hierarchial ds 
+
+1. Generic Tree
+https://www.pepcoding.com/resources/online-java-foundation/generic-tree/introduction_to_generic_tree/topic
+
+2. Binary Tree
+https://www.pepcoding.com/resources/online-java-foundation/binary-tree/binary_tree_introduction%20/topic
+
+3. Binary Search Tree
+https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/binary_search_tree_introduction/topic
